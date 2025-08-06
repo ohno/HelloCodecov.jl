@@ -1,0 +1,7 @@
+name = "HelloCodecov"
+uuid = "1e7b4843-f0fc-4b0f-8270-0c95106eba39"
+authors = ["Shuhei Ohno"]
+version = "0.0.1"
+
+[compat]
+julia = "1.11"
