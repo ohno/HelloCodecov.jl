@@ -2,5 +2,5 @@ using HelloCodecov
 using Test
 
 @testset "HelloCodecov.jl" begin
-    # Write your tests here.
+    @test HelloCodecov.hello() == 1
 end
