@@ -1,5 +1,11 @@
 module HelloCodecov
 
-# Write your package code here.
+function hello()
+    return 1
+end
+
+function hello2()
+    return 2
+end
 
 end
